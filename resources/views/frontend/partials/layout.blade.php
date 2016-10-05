@@ -16,6 +16,8 @@
     <link href="css/animate.min.css" rel="stylesheet">
     <link href="css/owl.carousel.css" rel="stylesheet">
     <link href="css/owl.theme.css" rel="stylesheet">
+    <script src="https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap.min.css"></script>
+    <script src="https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap.min.css"></script>
     <!-- theme stylesheet -->
     <link href="css/style.default.css" rel="stylesheet" id="theme-stylesheet">
     <!-- your stylesheet with modifications -->
@@ -39,6 +41,11 @@
 <script src="js/bootstrap-hover-dropdown.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/front.js"></script>
+<script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.12/js/dataTables.bootstrap.min.js"></script>
+<script>$(document).ready(function() {
+                 $('#example').DataTable();
+                    } );</script>
   
 
  </body>
