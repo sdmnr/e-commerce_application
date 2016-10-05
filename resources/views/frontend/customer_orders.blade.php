@@ -47,7 +47,7 @@
                 <a href="contact">contact us</a>, our customer service center is working for you 24/7.</p>
               <hr>
               <div class="table-responsive">
-                <table class="table table-hover">
+                <table id="example" class="table table-hover table-striped table-bordered">
                   <thead>
                     <tr>
                       <th>Order</th>
