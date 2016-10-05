@@ -16,11 +16,8 @@
               </div>
               </div>
               <hr>
-              <form>
-              <input type="text" name="search" placeholder="Search Products.."><input type="submit" name="submit" value="Search">
-              </form><br>
               <div class="table-responsive">
-                <table class="table table-hover" border="2px">
+                <table id="example" class="table table-hover table-striped table-bordered" border="2px">
                   <thead>
                     <tr>
                       <th>Sr. No.</th>
