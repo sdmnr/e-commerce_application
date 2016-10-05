@@ -16,11 +16,8 @@
               </div>
               </div>
               <hr>
-              <form>
-              <input type="text" name="search" placeholder="Search Banners.."><input type="submit" name="submit" value="Search">
-              </form><br>
               <div class="table-responsive">
-                <table class="table table-hover" border="2px">
+                <table id="example" class="table table-hover table-striped table-bordered" border="2px">
                   <thead>
                     <tr>
                       <th>Sr. No.</th>
@@ -67,6 +64,55 @@
                     <tr>
                       <th>#6</th>
                       <td>Banner2.jpg</td>
+                      <td>
+                        <a href="#" data-toggle="modal" data-target="#banner_delete-modal">Delete</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>#7</th>
+                      <td>Banner1.jpg</td>
+                      <td>
+                        <a href="#" data-toggle="modal" data-target="#banner_delete-modal">Delete</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>#8</th>
+                      <td>Banner1.jpg</td>
+                      <td>
+                        <a href="#" data-toggle="modal" data-target="#banner_delete-modal">Delete</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>#9</th>
+                      <td>Banner1.jpg</td>
+                      <td>
+                        <a href="#" data-toggle="modal" data-target="#banner_delete-modal">Delete</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>#10</th>
+                      <td>Banner1.jpg</td>
+                      <td>
+                        <a href="#" data-toggle="modal" data-target="#banner_delete-modal">Delete</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>#11</th>
+                      <td>Banner1.jpg</td>
+                      <td>
+                        <a href="#" data-toggle="modal" data-target="#banner_delete-modal">Delete</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>#12</th>
+                      <td>Banner1.jpg</td>
+                      <td>
+                        <a href="#" data-toggle="modal" data-target="#banner_delete-modal">Delete</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>#13</th>
+                      <td>Banner1.jpg</td>
                       <td>
                         <a href="#" data-toggle="modal" data-target="#banner_delete-modal">Delete</a>
                       </td>
