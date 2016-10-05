@@ -19,7 +19,7 @@
                 <h1>Shopping cart</h1>
                 <p class="text-muted">You currently have 2 item(s) in your cart.</p>
                 <div class="table-responsive">
-                  <table class="table">
+                  <table id="example" class="table table-hover table-striped table-bordered" >
                     <thead>
                       <tr>
                         <th colspan="2">Product</th>
