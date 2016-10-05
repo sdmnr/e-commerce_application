@@ -21,7 +21,7 @@
                 <h3>Congratulations.</h3><p class="text-muted"> Your order has been placed successfully. It will be processed and dispatched immediately. You are likely to recieve it in 8-10 bussiness days. Thank you for shopping with us. </p>
                 <div class="content">
                   <div class="table-responsive">
-                    <table class="table">
+                    <table id="example" class="table table-hover table-striped table-bordered">
                       <thead>
                         <tr>
                           <th colspan="2">Product</th>
